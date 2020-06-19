@@ -1,0 +1,3 @@
+./slackserver/slackbot/order/*
+./slackserver/slackbot/plugins/__pycache__/*
+./slackserver/gametools/__pycache__/*
